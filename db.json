@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "David",
+      "username": "itsdavidhdez",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "name": "Jorge",
+      "username": "jorgito",
+      "password": "ea8ac2b5220152f87e183aaea3ed4e42"
+    }
+  ]
+}
